@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.venv/
+received.txt
+received.bin
